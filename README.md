@@ -26,13 +26,13 @@
 
 
   <a href="#" title="aliseyedi01">
-    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=highcontrast&border_color=AFD41B&hide_border=true" />
+    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=gruvbox&border_color=AFD41B&hide_border=true" />
   </a>
 
 <!-- Github Stats -->
 
   <a href="#"  title="aliseyedi01">
-    <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=highcontrast&border_color=AFD41B&hide_border=true" />
+    <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
   </a>
 </div>
 <!-- streak -->
