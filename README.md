@@ -20,7 +20,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <br><br>
 
-<h3 align="left"  >🔥 GitHub Stats 🔥</h3>
+<h3 align="left"  >🔥 Stats 🔥</h3>
 <!-- most used Language -->
 <div align=center>
 
@@ -36,9 +36,9 @@
   </a>
 </div>
 <!-- streak -->
-<h3 align="left"  >🔥 GitHub steak 🔥</h3>
+<h3 align="left"  >🔥 streak 🔥</h3>
     <p  href="#"  title="aliseyedi01">
-       <img align="center" width="500px" src="https://streak-stats.demolab.com?user=aliseyedi01&theme=dark&hide_border=true&border_radius=5.5" alt="aliseyedi01" />
+       <img align="center" width="500px" src="https://streak-stats.demolab.com?user=aliseyedi01&theme=gruvbox&hide_border=true&border_radius=5.5" alt="aliseyedi01" />
    </p>
 
 
