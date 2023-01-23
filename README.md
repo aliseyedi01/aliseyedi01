@@ -35,7 +35,7 @@
 <!-- Github Stats -->
 <p>
   <a href="#"  title="aliseyedi01">
-    <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </p>
 
