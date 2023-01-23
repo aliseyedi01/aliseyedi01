@@ -40,3 +40,6 @@
 </p>
 
 
+<!-- random quotes -->
+
+
