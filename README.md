@@ -28,17 +28,17 @@
 <!-- most used Language -->
 <div align=center>
 
-  [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=highcontrast&border_color=AFD41B&hide_border=true)](https://github.com/aliseyedi01/github-readme-stats)
 
+  <a href="#" title="aliseyedi01">
+    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=highcontrast&border_color=AFD41B&hide_border=true" />
+  </a>
 
 <!-- Github Stats -->
-  ![aliseyedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=highcontrast&border_color=AFD41B&hide_border=true)
+
+  <a href="#"  title="aliseyedi01">
+    <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=highcontrast&border_color=AFD41B&hide_border=true" />
+  </a>
 </div>
 
 <!-- random quotes -->
-
-
-
-
-
 
