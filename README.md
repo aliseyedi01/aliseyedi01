@@ -28,14 +28,14 @@
 <!-- most used Language -->
 <p>
   <a href="#" title="aliseyedi01">
-    <img width="430" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="420" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </p>
 
 <!-- Github Stats -->
 <p>
   <a href="#"  title="aliseyedi01">
-    <img align="left" width="430" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </p>
 
