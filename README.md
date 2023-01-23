@@ -21,10 +21,6 @@
 <br><br>
 
 <h3 align="left"  >🔥 GitHub Stats 🔥</h3>
-<!-- streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliseyedi01&" alt="aliseyedi01" /></p>
-
-
 <!-- most used Language -->
 <div align=center>
 
@@ -39,6 +35,12 @@
     <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=highcontrast&border_color=AFD41B&hide_border=true" />
   </a>
 </div>
+<!-- streak -->
+<h3 align="left"  >🔥 GitHub steak 🔥</h3>
+    <p  href="#"  title="aliseyedi01">
+       <img align="center" width="500px" src="https://streak-stats.demolab.com?user=aliseyedi01&theme=dark&hide_border=true&border_radius=5.5" alt="aliseyedi01" />
+   </p>
+
 
 <!-- random quotes -->
 
