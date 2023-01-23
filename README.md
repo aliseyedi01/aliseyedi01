@@ -38,7 +38,7 @@
 <!-- streak -->
 <h3 align="left"  >🔥 Streak 🔥</h3>
     <p  href="#"  title="aliseyedi01">
-       <img align="center" width="500px" src="https://streak-stats.demolab.com?user=aliseyedi01&theme=gruvbox&hide_border=true&border_radius=5.5" alt="aliseyedi01" />
+       <img align="center" width="450px" src="https://streak-stats.demolab.com?user=aliseyedi01&theme=gruvbox&hide_border=true&border_radius=5.5" alt="aliseyedi01" />
    </p>
 
 
