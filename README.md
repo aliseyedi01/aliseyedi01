@@ -32,7 +32,7 @@
 <!-- Github Stats -->
 
   <a href="#"  title="aliseyedi01">
-    <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
   </a>
 </div>
 <!-- streak -->
