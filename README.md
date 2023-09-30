@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-<h3 align="left">Language & Skills</h3>
+<h3 align="left">My Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,mui,react,redux,nextjs&theme=dark)](https://skillicons.dev)
+- **Front End**
+	- **Languages:** `JavaScript` • `TypeScript`
+	- **Framework/Library:** `React.js` • `Next.js`
+	- **State Management:** `Redux` • `Redux-Toolkit` • `React-Query`
+	- **Styling:** `CSS` • `Bootstrap` • `Tailwind CSS` • `Ant Design` • `MUI` • `Shadcn UI`
+	- **Database:** `Firebase` • `Supabase` • `MongoDB`
+	- **Deployment Platforms:** `GitHub Pages` • `Vercel` • `Netlify`
+	- **Module Bundlers:** `Webpack` • `Vite.js`
+	- **API Testing:** `Postman`
+	- **Version Control:** `Git` • `GitHub`
 
+<br/>
 
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,styledcomponents,mui,react,redux,nextjs,mongodb,supabase,firebase,git,github,stackoverflow,vite,vscode,&theme=dark&perline=10" />
+  </a>
+</p>
 
 <h3 align="left"  > 📊 Stats</h3>
 <br/>
