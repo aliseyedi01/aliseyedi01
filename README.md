@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<p align="center">
+  <a align="center" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome👋+To+My+Github+Page;Hello+I'm+Ali😎+Seyedi;I'm+a+Passionate🔥+Front-End+Developer;With+Creative+Idea💎+and+Precision;Feel+Free+To+Explore🔍+My+Projects;" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <h3 align="left">My Skills</h3>
 
 - **Front End**
-	- **Languages:** `JavaScript` • `TypeScript`
-	- **Framework/Library:** `React.js` • `Next.js`
-	- **State Management:** `Redux` • `Redux-Toolkit` • `React-Query`
-	- **Styling:** `CSS` • `Bootstrap` • `Tailwind CSS` • `Ant Design` • `MUI` • `Shadcn UI`
-	- **Database:** `Firebase` • `Supabase` • `MongoDB`
-	- **Deployment Platforms:** `GitHub Pages` • `Vercel` • `Netlify`
-	- **Module Bundlers:** `Webpack` • `Vite.js`
-	- **API Testing:** `Postman`
-	- **Version Control:** `Git` • `GitHub`
+    - **Languages:** `JavaScript` • `TypeScript`
+    - **Framework/Library:** `React.js` • `Next.js`
+    - **State Management:** `Redux` • `Redux-Toolkit` • `React-Query`
+    - **Styling:** `CSS` • `Bootstrap` • `Tailwind CSS` • `Ant Design` • `MUI` • `Shadcn UI`
+    - **Database:** `Firebase` • `Supabase` • `MongoDB`
+    - **Deployment Platforms:** `GitHub Pages` • `Vercel` • `Netlify`
+    - **Module Bundlers:** `Webpack` • `Vite.js`
+    - **API Testing:** `Postman`
+    - **Version Control:** `Git` • `GitHub`
 
 <br/>
 
