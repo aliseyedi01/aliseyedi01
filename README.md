@@ -7,16 +7,15 @@
 
 <h3 align="left">My Skills</h3>
 
-- **Front End**
-    - **Languages:** `JavaScript` • `TypeScript`
-    - **Framework/Library:** `React.js` • `Next.js`
-    - **State Management:** `Redux` • `Redux-Toolkit` • `React-Query`
-    - **Styling:** `CSS` • `Bootstrap` • `Tailwind CSS` • `Ant Design` • `MUI` • `Shadcn UI`
-    - **Database:** `Firebase` • `Supabase` • `MongoDB`
-    - **Deployment Platforms:** `GitHub Pages` • `Vercel` • `Netlify`
-    - **Module Bundlers:** `Webpack` • `Vite.js`
-    - **API Testing:** `Postman`
-    - **Version Control:** `Git` • `GitHub`
+- **Languages:** `JavaScript` • `TypeScript`
+- **Framework/Library:** `React.js` • `Next.js`
+- **State Management:** `Redux` • `Redux-Toolkit` • `React-Query`
+- **Styling:** `CSS` • `Bootstrap` • `Tailwind CSS` • `Ant Design` • `MUI` • `Shadcn UI`
+- **Database:** `Firebase` • `Supabase` • `MongoDB`
+- **Deployment Platforms:** `GitHub Pages` • `Vercel` • `Netlify`
+- **Module Bundlers:** `Webpack` • `Vite.js`
+- **API Testing:** `Postman`
+- **Version Control:** `Git` • `GitHub`
 
 <br/>
 
