@@ -1,8 +1,9 @@
 <p align="center">
   <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome👋+To+My+Github+Page;Hello+I'm+Ali😎+Seyedi;I'm+a+Passionate🔥+Front-End+Developer;With+Creative+Idea💎+and+Precision;Feel+Free+To+Explore🔍+My+Projects;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome👋+To+My+Github+Page;Hello+I'm+Ali😎+ Seyedi;I'm+a+Front-End+Developer💻;With+Creative+Idea💎+and+Precision;Feel+Free+To+Explore🔍+My+Projects;" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <h3 align="left">My Skills</h3>
