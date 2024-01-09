@@ -6,7 +6,7 @@
 
 
 
-<h3 align="left">My Skills</h3>
+### 🛠 Tech Stack
 
 - **Languages:** `JavaScript` • `TypeScript`
 - **Framework/Library:** `React.js` • `Next.js`
@@ -26,12 +26,19 @@
   </a>
 </p>
 
-<h3 align="left"  > 📊 Stats</h3>
+### 👔 Soft skills
+
+- 🏌️ Participation and presence in team work
+- ⌛️ Meet tight deadlines
+- ❣️ Good communication skills
+
+
+### ⚙️  GitHub Analytics
 <br/>
 <!-- most used Language -->
 <div align=center>
 
-
+<br>
   <a href="#" title="aliseyedi01">
     <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=gruvbox&border_color=AFD41B&hide_border=true" />
   </a>
