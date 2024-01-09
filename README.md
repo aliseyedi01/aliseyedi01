@@ -27,14 +27,13 @@
 </p>
 
 ### 👔 Soft skills
-
 - 🏌️ Participation and presence in team work
 - ⌛️ Meet tight deadlines
 - ❣️ Good communication skills
 
 
 ### ⚙️  GitHub Analytics
-<br/>
+
 <!-- most used Language -->
 <div align=center>
 
@@ -48,6 +47,12 @@
     <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
   </a>
 </div>
+
+### 🤝🏻  Connect with Me
+
+<a href="https://www.linkedin.com/in/aliseyedi01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/aliseyedi01"><img alt="Telegram" src="https://img.shields.io/badge/telegram-fff?style=for-the-badge&logo=telegram&logoColor=blue"></a>
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aliseyedi07@gmail.com1"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
 <!-- Review Stats -->
