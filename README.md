@@ -8,33 +8,33 @@
 
 #### 🖥 Front End
 
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) • ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-- **Framework/Library:** ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react) • ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next-dot-js)
-- **State Management:** ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) • ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux) • ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
-- **Styling:** ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) • ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) • ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) • ![Ant Design](https://img.shields.io/badge/-Ant_Design-333333?style=flat&logo=ant-design) • ![Material-UI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui) • ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat)
-- **Database:** ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) • ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat) • ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- **Deployment Platforms:** ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-333333?style=flat&logo=github) • ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) • ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-- **Module Bundlers:** ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) • ![Vite.js](https://img.shields.io/badge/-Vite.js-333333?style=flat)
-- **API Testing:** ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) • ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react) • ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next-dot-js)
+- ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) • ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux) • ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) • ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) • ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) • ![Ant Design](https://img.shields.io/badge/-Ant_Design-333333?style=flat&logo=ant-design) • ![Material-UI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui) • ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat)
+- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) • ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat) • ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-333333?style=flat&logo=github) • ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) • ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+- ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) • ![Vite.js](https://img.shields.io/badge/-Vite.js-333333?style=flat)
+- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 #### ⚙️ Back End
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- **Framework/Library:** ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) • ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=django) • ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-- **Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) • ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=django) • ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 #### 🎡 Ecosystem
 
-- **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) • ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- **Project Management:** ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira) • ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
-
+-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) • ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira) • ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
 ### 👔 Soft skills
-- 🏌️ Participation and presence in team work
-- ⌛️ Meet tight deadlines
-- ❣️ Good communication skills
+
+- Participation and presence in team work
+- Meet tight deadlines
+- Good communication skills
 
 ### ⚙️  GitHub Analytics
 
