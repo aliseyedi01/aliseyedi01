@@ -4,6 +4,13 @@
   </a>
 </p>
 
+### 👩‍💻 About Me
+
+- 🚀 Front-end developer with a passion for coding and sleek interfaces.
+- 🧠 Proficient in project management, specializing in front-end technologies.
+- ⚡ Currently developing engaging user interfaces with a focus on innovation.
+- 💻 Actively learning and staying ahead in the dynamic world of front-end development.
+
 ### 🛠 Tech Stack
 
 #### 🖥 Front End
