@@ -68,3 +68,5 @@
 <br>
 <!-- Review Stats -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliseyedi01&label=Profile%20views&color=0e75b6&style=flat" alt="aliseyedi01" /> </p>
+
+[![wakatime](https://wakatime.com/badge/user/c9fd8738-3f8e-4ea0-9e3f-05c0f5ab8513.svg)](https://wakatime.com/@c9fd8738-3f8e-4ea0-9e3f-05c0f5ab8513)
