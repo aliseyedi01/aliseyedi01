@@ -50,12 +50,12 @@
 
 <br>
   <a href="#" title="aliseyedi01">
-    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&layout=compact&langs_count=8&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliseyedi01&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
 
 <!-- Github Stats -->
   <a href="#"  title="aliseyedi01">
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=aliseyedi01&theme=dark&show_icons=true&hide_border=true&count_private=false" />
   </a>
 </div>
 
