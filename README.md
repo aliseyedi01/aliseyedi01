@@ -35,17 +35,18 @@
 
 ### 👔 Soft skills
 
-- Participation and presence in team work
-- Meet tight deadlines
-- Good communication skills
-
+- 🤝 Participation and presence in team work
+- ⏰ Meet tight deadlines
+- 🗣️ Good communication skills
 
 📈 Financial & Trading
-- 🤖 MQL5 & Pine Script (Trading Robots, Indicators, Scripts)
+
+- 🤖 MQL5 & Pine Script (Trading Robots, Indicators, Scripts, Alerts)
 - 💰 Financial market knowledge: Trading basics & fundamentals
 - 📊 Technical analysis styles: Dow Theory, Price Action, SMC, RTM
 
-- 
+
+
 ### ⚙️  GitHub Analytics
 
 <!-- most used Language -->
