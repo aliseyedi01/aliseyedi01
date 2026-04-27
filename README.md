@@ -6,10 +6,12 @@
 
 ### 👩‍💻 About Me
 
-- 🚀 Front-end developer with a passion for coding and sleek interfaces.
-- 🧠 Proficient in project management, specializing in front-end technologies.
-- ⚡ Currently developing engaging user interfaces with a focus on innovation.
-- 💻 Actively learning and staying ahead in the dynamic world of front-end development.
+- 🌐 Web Developer with experience in both front-end and back-end development.
+- 🎨 Focused on building clean, user-friendly interfaces and reliable server-side logic.
+- 🧠 Skilled in project management, especially for front-end technologies.
+- ⚡ Currently developing modern web applications with a focus on performance and user experience.
+- 📚 Always learning — keeping up with JavaScript, Python backends, and deployment tools.
+
 
 ### 🛠 Tech Stack
 
